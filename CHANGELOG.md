@@ -6,6 +6,7 @@ v1.10 (*Not Yet Released)
 
 + Improved IIS support. (@g0tmi1k)
 + Improved setup system check. (@g0tmi1k)
++ Hardened exec low security level against command injection by validating and escaping ping input. (@assistant)
 
 v1.9 (2015-10-05)
 ======
