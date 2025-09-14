@@ -4,6 +4,7 @@ DAMN VULNERABLE WEB APPLICATION
 v1.10 (*Not Yet Released)
 ======
 
++ Hardened command execution low level to prevent OS command injection. (Codex)
 + Improved IIS support. (@g0tmi1k)
 + Improved setup system check. (@g0tmi1k)
 
